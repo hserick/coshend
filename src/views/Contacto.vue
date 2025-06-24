@@ -22,7 +22,7 @@
       <div class="md:col-span-6 flex flex-col items-center justify-center gap-6">
         <p class="text-coshend-orange font-semibold">Síguenos o escríbenos en:</p>
         <div class="flex gap-8 text-coshend-blue text-3xl">
-          <a href="https://wa.me/5215555555555" target="_blank" aria-label="WhatsApp" title="WhatsApp">
+          <a href="https://wa.me/525528955257" target="_blank" aria-label="WhatsApp" title="WhatsApp">
             <i class="fab fa-whatsapp hover:text-green-600 transition"></i>
           </a>
           <a href="https://www.facebook.com/tuconsultora" target="_blank" aria-label="Facebook" title="Facebook">
@@ -34,6 +34,10 @@
           <a href="mailto:contacto@coshend.com" aria-label="Correo" title="Correo electrónico">
             <i class="fas fa-envelope hover:text-coshend-orange transition"></i>
           </a>
+        </div>
+        <div class="md:col-span-6 flex flex-col items-center justify-center gap-6">
+          <p>Cerrada Océano Pacífico Manzana 213<br/>
+            C.P. 43816, Tizayuca Hidalgo.</p>
         </div>
       </div>
     </div>

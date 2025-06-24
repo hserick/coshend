@@ -4,7 +4,7 @@ import ImageSlider from '../components/ImageSlider.vue'
 
 <template>
   <section class="p-8 text-center">
-    <h1 class="text-3xl md:text-4xl font-bold text-blue-700">
+    <h1 class="text-3xl md:text-4xl font-bold text-blue-500">
       Bienvenido a Coshend Consultoría
     </h1>
     <p class="text-gray-600 mt-4">

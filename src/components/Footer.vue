@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-coshend-brown text-white text-sm py-6 mt-12">
+  <footer class="bg-amber-600 text-white text-sm py-6 mt-12">
     <div class="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-4">
       <p>&copy; {{ new Date().getFullYear() }} Coshend Consultoría. Todos los derechos reservados.</p>
       <div class="flex gap-4">

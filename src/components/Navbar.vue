@@ -1,13 +1,13 @@
 <template>
-    <nav class="bg-white shadow-md px-6 py-4 flex justify-between items-center">
-        <div class="text-blue-700 font-semibold text-xl">
+    <nav class="bg-amber-800 shadow-md px-6 py-4 flex justify-between items-center">
+        <div class="text-white font-semibold text-xl">
             COSHEND Consultoría
         </div>
-        <ul class="hidden md:flex gap-6 text-gray-600 font-medium">
-            <li><router-link to="/home" class="hover:text-blue-700">Inicio</router-link></li>
-            <li><router-link to="/servicios" class="hover:text-blue-700">Servicios</router-link></li>
-            <li><router-link to="/sobre-nosotros" class="hover:text-blue-700">Sobre nosotros</router-link></li>
-            <li><router-link to="/contacto" class="hover:text-blue-700">Contacto</router-link></li>
+        <ul class="hidden md:flex gap-6 text-white font-medium">
+            <li><router-link to="/" class="hover:text-gray-400">Inicio</router-link></li>
+            <li><router-link to="/servicios" class="hover:text-gray-400">Servicios</router-link></li>
+            <li><router-link to="/sobre-nosotros" class="hover:text-gray-400">Sobre nosotros</router-link></li>
+            <li><router-link to="/contacto" class="hover:text-gray-400">Contacto</router-link></li>
         </ul>
 
         <button @click="toggleMenu" class="md:hidden text-gray-600 text-2xl focus:outline-none">
