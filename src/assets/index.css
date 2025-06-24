@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@keyframes pulseGlow {
+    0%, 100%{
+        background-color: #facc15;
+    }
+    50%{
+        background-color: #f97316;
+    }
+}
+
+.bg-pulse{
+    animation: pulseGlow 6s ease-in-out infinite;
+}
